@@ -12,3 +12,15 @@ def triplet(number):
 def half(number):
     result = number // 2
     return result
+
+def times_three(number):
+    # TODO: implement this
+    pass
+
+def times_four(number):
+    # TODO: implement this
+    pass
+
+def times_five(number):
+    # TODO: implement this
+    pass
