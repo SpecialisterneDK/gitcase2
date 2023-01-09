@@ -15,6 +15,7 @@ def half(number):
 
 def times_three(number):
     result = triple(number)
+    return result
 
 def times_four(number):
     # TODO: implement this
