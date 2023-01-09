@@ -13,7 +13,7 @@ def triple(number):
 
 # halves a number
 def half(number):
-    result = number // 2
+    result = number / 2
     return result
 
 # øver commit amend
