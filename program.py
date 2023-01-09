@@ -10,7 +10,7 @@ def triplet(number):
 
 # halves a number
 def half(number):
-    result = number // 2
+    result = number / 2
     return result
 
 def times_three(number):
