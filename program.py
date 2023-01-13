@@ -4,7 +4,7 @@ def double(number):
     return result
 
 # triples a number
-def triplet(number):
+def triple(number):
     result = 3 * number
     return result
 
