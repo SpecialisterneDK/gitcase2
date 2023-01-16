@@ -15,3 +15,6 @@ def triple(number):
 def half(number):
     result = number // 2
     return result
+
+# øver commit amend
+# her kommer lidt mere der også skal med i commit
