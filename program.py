@@ -21,8 +21,7 @@ def times_three(number):
     return result
 
 def times_four(number):
-    # TODO: implement this
-    pass
+    return number * 4
 
 def times_five(number):
     # TODO: implement this
