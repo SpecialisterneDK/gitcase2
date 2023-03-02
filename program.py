@@ -5,7 +5,7 @@ def double(number):
 
 # triples a number
 def triplet(number):
-    result = 3 ** number
+    result = 3 * number
     return result
 
 # halves a number
