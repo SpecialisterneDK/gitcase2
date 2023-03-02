@@ -12,3 +12,8 @@ def triple(number):
 def half(number):
     result = number // 2
     return result
+
+# adds a number or somefn
+def add(number)
+    result = number + 1
+    return result
